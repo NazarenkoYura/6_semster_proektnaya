@@ -1,11 +1,3 @@
-**scripts/** — исходный код Python (анализ данных, моделирование)
-
-**data_cleaned/** — очищенные данные (CSV)
-
-**clustering_results/** — результаты One-Class SVM (tokens, metrics)
-
-**hypothesis_verification_results/** — результаты верификации гипотез (JSON, findings)
-
-**trend_analysis_results/** — результаты анализа трендов
-
-**Отчёт по проведённой работе.md** — краткое резюме проекта
+version https://git-lfs.github.com/spec/v1
+oid sha256:2186afef9386387a3b7ea054b6bb724aa9440ff9be4e9ffb2afe92d0137924f4
+size 567
